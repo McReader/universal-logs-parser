@@ -1,0 +1,41 @@
+{
+  "name": "universal-logs-parser",
+  "version": "1.0.0",
+  "description": "Highly flexible logs parser in JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McReader/universal-logs-parser.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "transducer",
+    "transducer",
+    "logs",
+    "parser",
+    "fp",
+    "functional",
+    "programming",
+    "ast",
+    "syntax",
+    "analysis",
+    "lexical",
+    "analysis"
+  ],
+  "author": "Denis Roy <mcreader215@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/McReader/universal-logs-parser/issues"
+  },
+  "homepage": "https://github.com/McReader/universal-logs-parser#readme",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "@types/ramda": "^0.25.41"
+  }
+}
